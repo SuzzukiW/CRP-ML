@@ -1,14 +1,11 @@
 # chocolate-ratings-prediction-ml-model
 
-# **DS 110 Final Project**
-
 **By: Kayla Wu, Xiang Fu**
 
 ## **Template 2:** Publicly Available Dataset and Machine Learning
 
 **Find a publicly available dataset (give a link in your proposal)** that has some data you can use for the final project, and **decide on 2 approaches that you could take to predict some variable with machine learning.** (Approaches include k-nearest neighbors, decision trees, and random forests; you can also experiment with anything else you find in scikit-learn or elsewhere.) You don't need to implement the machine learning algorithm yourself - you can make use of scikit-learn and other libraries. **ldentify the columns you will use for prediction.** You should also **plan to vary some parameters in each approach** to achieve the best possible performance - for example, vary k for k-nearest neighbors, or vary maximum depth for decision trees.
 
-![Shape1](RackMultipart20221117-1-qmbi89_html_237499165a11f2b9.gif)
 
 ## **Chocolate Bar Ratings**
 
@@ -16,11 +13,13 @@
 
 - Description
   - Believe it or not, [chocolate is ranked the most popular candy in the world](https://www.foodbeverageinsider.com/confectionery/chocolate-preferred-candy-america-poll-finds). For our final project, we are interested in exploring expert ratings of over 1,700 individual chocolate bars from a [Chocolate Bar Ratings](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings) dataset via Kaggle. In other words, we will be predicting chocolate bar ratings using the following parameters/columns: (1) regional origin, (2) percentage of cocoa, (3) variety of chocolate bean used, and (4) broad bean origin, to train our machine learning model.
+  - 
 
 ## **Objectives of our dataset exploration**
 
 1. Estimate the chocolate bar ratings with the aforementioned parameters in the dataset
 2. Determine which parameter(s) will have the greatest impact on chocolate bar ratings
+
 
 ## **Possible approaches**
 
@@ -33,6 +32,7 @@
   2. First, we will select random samples from the dataset, then construct a decision tree for each sample for a prediction result from each decision tree.
   3. Next, we will perform a majority vote for each predicted result.
   4. Finally, we will select the prediction result with the most votes as the final prediction.
+ 
 
 ## **List of all variables**
 
@@ -45,12 +45,14 @@
 - **Bean Type** (feature/parameter)
 - **Broad Bean Origin** (feature/parameter)
 
+
 ## **Chosen columns for chocolate bar rating prediction**
 
 1. Cocoa Percent
 2. Bean type
 3. Broad Bean Origin
 4. Specific Bean Origin for Bar Name
+
 
 ##
 
@@ -85,3 +87,4 @@
   2. Model hyperparameters to consider
     1. Decision Tree: random state, maximum depth, minimum samples leaf
     2. Random Forest: max\_features (maximum number of features Random Forest is allowed to try in individual tree), max\_depth\_, min\_ sample\_leaf, n\_estimators (the number of trees to build before taking the maximum voting or averages of predictions), random\_state
+
