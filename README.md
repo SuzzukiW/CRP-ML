@@ -1,4 +1,4 @@
-# chocolate-ratings-prediction-ml-model
+# Chocolate Bars Rating Prediction ML Model
 
 **By: Kayla Wu, Xiang Fu**
 
