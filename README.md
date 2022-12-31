@@ -2,7 +2,7 @@
 
 **By: Kayla Wu, Xiang Fu**
 
-## **Template 2:** Publicly Available Dataset and Machine Learning
+## Publicly Available Dataset and Machine Learning
 
 **Find a publicly available dataset (give a link in your proposal)** that has some data you can use for the final project, and **decide on 2 approaches that you could take to predict some variable with machine learning.** (Approaches include k-nearest neighbors, decision trees, and random forests; you can also experiment with anything else you find in scikit-learn or elsewhere.) You don't need to implement the machine learning algorithm yourself - you can make use of scikit-learn and other libraries. **ldentify the columns you will use for prediction.** You should also **plan to vary some parameters in each approach** to achieve the best possible performance - for example, vary k for k-nearest neighbors, or vary maximum depth for decision trees.
 
