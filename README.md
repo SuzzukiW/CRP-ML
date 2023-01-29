@@ -12,7 +12,7 @@
 
 - Description
   - Believe it or not, [chocolate is ranked the most popular candy in the world](https://www.foodbeverageinsider.com/confectionery/chocolate-preferred-candy-america-poll-finds). For our final project, we are interested in exploring expert ratings of over 1,700 individual chocolate bars from a [Chocolate Bar Ratings](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings) dataset via Kaggle. In other words, we will be predicting chocolate bar ratings using the following parameters/columns: (1) regional origin, (2) percentage of cocoa, (3) variety of chocolate bean used, and (4) broad bean origin, to train our machine learning model.
-  - 
+
 
 ## **Objectives of our dataset exploration**
 
