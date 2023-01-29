@@ -1,6 +1,6 @@
 # Chocolate Bars Rating Prediction ML Model
 
-**By: [Kayla Wu](https://www.linkedin.com/in/kayla-wu-bu/), Xiang Fu**
+**By: [Kayla Wu](https://www.linkedin.com/in/kayla-wu-bu/), [Xiang Fu](https://www.linkedin.com/in/xfu22/)**
 
 ## Publicly Available Dataset and Machine Learning
 
