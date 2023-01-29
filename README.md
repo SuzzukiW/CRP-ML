@@ -1,13 +1,12 @@
 # Chocolate Bars Rating Prediction ML Model
 
-**By: [Kayla Wu](https://www.linkedin.com/in/kayla-wu-bu/), [Xiang Fu](https://www.linkedin.com/in/xfu22/)**
+**By: [Xiang Fu](https://www.linkedin.com/in/xfu22/), [Kayla Wu](https://www.linkedin.com/in/kayla-wu-bu/)**
+
 
 ## Publicly Available Dataset and Machine Learning
 
 **Find a publicly available dataset (give a link in your proposal)** that has some data you can use for the final project, and **decide on 2 approaches that you could take to predict some variable with machine learning.** (Approaches include k-nearest neighbors, decision trees, and random forests; you can also experiment with anything else you find in scikit-learn or elsewhere.) You don't need to implement the machine learning algorithm yourself - you can make use of scikit-learn and other libraries. **ldentify the columns you will use for prediction.** You should also **plan to vary some parameters in each approach** to achieve the best possible performance - for example, vary k for k-nearest neighbors, or vary maximum depth for decision trees.
 
-
-## **Chocolate Bar Ratings**
 
 ## **Dataset and inputs (Data preparation)**
 
@@ -52,9 +51,6 @@
 2. Bean type
 3. Broad Bean Origin
 4. Specific Bean Origin for Bar Name
-
-
-##
 
 
 ## **Steps of Our Machine Learning Training Process**
