@@ -1,4 +1,4 @@
-# Chocolate Bars Rating Prediction ML Model
+# [DS 110 Fall 2022] Chocolate Bars Rating Prediction ML Model
 
 **By: [Xiang Fu](https://www.linkedin.com/in/xfu22/), [Kayla Wu](https://www.linkedin.com/in/kayla-wu-bu/)**
 
